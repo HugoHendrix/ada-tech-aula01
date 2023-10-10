@@ -41,4 +41,5 @@ Gostaria de agradecer à Ada Tech e iFood por esta oportunidade incrível. Estou
 Se você quiser saber mais sobre minha jornada no programa "Vem Ser Tech" ou se conectar comigo, não hesite em entrar em contato:
 
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Front End Estático - Anotações AULA 1](https://hugohendrix.notion.site/Front-End-Est-tico-Anota-es-AULA-1-9a5b43e55d7c4297a2b4dcb662eec346?pvs=4)
 - [Email](mailto:seu-email@example.com)
