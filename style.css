@@ -1,0 +1,114 @@
+body {
+    font-family: 'Fira Code', monospace;
+    background: linear-gradient(93.08deg,
+            rgba(166, 247, 80, 0.14) 19.31%,
+            rgba(61, 44, 255, 0) 75.52%),
+        rgb(24, 28, 35);
+    color: azure;
+
+}
+
+header {
+    border-bottom: 2px solid #36491f;
+
+}
+
+a {
+    text-decoration: none;
+    /* Remova a decoração padrão do link (sublinhado) */
+    color: #a6f750;
+    /* Cor padrão do link */
+    transition: 0.5s ease;
+    /* Adicione uma transição suave na cor da borda */
+}
+
+a:hover {
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.tech-profile {
+    border: 2px solid #36491f;
+    border-radius: 10px;
+}
+
+
+h1,
+h2,
+h4 {
+    color: #a6f750;
+    margin-block: 40px;
+    background: linear-gradient(93.08deg,
+            rgba(166, 247, 80, 0.14) 19.31%,
+            rgba(61, 44, 255, 0) 75.52%),
+        rgba(24, 28, 35, 0.089);
+
+}
+
+.card-title,
+.card-text {
+    color: #242835;
+}
+
+
+.btn-custom {
+    background-color: #a6f750;
+    color: black;
+    border: #242835;
+}
+
+.btn-custom:hover {
+    background-color: #6b9e35;
+
+}
+
+a.btn-custom:active {
+    background-color: #101420;
+}
+
+
+footer {
+    margin-top: 25px;
+    padding: 20px;
+    background-color: #242835;
+    color: black;
+    width: 100%;
+    padding: 40px;
+}
+
+/* Estilo da barra de rolagem */
+/* Barra de rolagem vertical */
+::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de rolagem vertical */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #36491f; /* Cor de fundo da faixa de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #68b517; /* Cor da alça da barra de rolagem */
+    border-radius: 6px; /* Cantos arredondados da alça */
+}
+
+/* Barra de rolagem horizontal */
+::-webkit-scrollbar-horizontal {
+    height: 12px; /* Altura da barra de rolagem horizontal */
+}
+
+::-webkit-scrollbar-track-horizontal {
+    background-color: #f1f1f1; /* Cor de fundo da faixa de rolagem horizontal */
+}
+
+::-webkit-scrollbar-thumb-horizontal {
+    background-color: #f2f2f2; /* Cor da alça da barra de rolagem horizontal */
+    border-radius: 6px; /* Cantos arredondados da alça */
+}
+
+
+
+/* Ocultar o botão "Voltar ao Topo" em dispositivos móveis */
+@media (max-width: 767px) {
+    .back-to-top {
+        display: none;
+    }
+}
