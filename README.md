@@ -9,7 +9,7 @@ O programa "Vem Ser Tech" é uma iniciativa inovadora que visa capacitar e promo
 
 ## Agradecimentos
 
-Gostaria de agradecer à Ada Tech e iFood por esta oportunidade incrível. Estou ansioso(a) para aprender, crescer e fazer parte desta comunidade de tecnologia.
+Gostaria de agradecer à Ada Tech e iFood por esta oportunidade incrível. Estou ansioso para aprender, crescer e fazer parte desta comunidade de tecnologia.
 
 
 
